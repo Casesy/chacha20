@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "chacha20.h"
+#include "chacha20.c"
 
 int main(int argc, char **argv) {
     int i;
